@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitymaths&label=Profile%20views&color=0e75b6&style=flat" alt="infinitymaths" /> </p>
 
-- 🔭 I’m currently working on **The sparks foundation**
+- 🔭 I’m currently working at **Cointab Software Pvt. Ltd as Data Analyst**
 
 - 🌱 I’m currently learning **tableau,power bi, opencv and Natural Language processing**
 
