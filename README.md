@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitymaths&label=Profile%20views&color=0e75b6&style=flat" alt="infinitymaths" /> </p>
 
-- 🔭 I’m currently working at **Cointab Software Pvt. Ltd as Data Analyst**
+- 🔭 I’m currently working at **Cointab Software Pvt. Ltd as Senior Data Analyst**
 
-- 🌱 I’m currently learning **tableau,power bi, opencv and Natural Language processing**
+- 🌱 I’m currently learning **Generative AI, OpenAI, LLMs and of course upgrading the older techniques**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
-- 📫 How to reach me **sharath.infinitymaths@gmail.com**
+- 📫 How to reach me **sharathdinesh23@gmail.com**
 
 - ⚡ Fun fact **I am quite lazy person because of which I complete my work as soon as possible**
 
